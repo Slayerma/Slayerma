@@ -22,6 +22,9 @@ Based on the pdf make changes to the code
 
 ### 📊 GitHub Contributions Graph:
 [![Syed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Slayerma&&theme=tokyo-night_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+# 📊 GitHub Contributions Graph:
+[![Syed's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Slayerma&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Slayerma&icon=0&color=0)](https://visitcount.itsvg.in)
