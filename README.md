@@ -12,7 +12,13 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syedmohathashimali) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Slayerma) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedmohathashimali10@gmail.com)
+<a href="https://linkedin.com/in/syedmohathashimali" target="_blank" style="text-decoration:none;color:white;">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:middle;"/>
+</a>  
+<a href="https://reddit.com/user/Slayerma" target="_blank" style="text-decoration:none;color:white;">
+  <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit" style="vertical-align:middle;"/>
+</a>
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedmohathashimali10@gmail.com)
 
 
 # 💻 Tech Stack:
