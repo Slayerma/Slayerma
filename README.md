@@ -36,15 +36,12 @@
 ### 📊 GitHub Contributions Graph:
 [![Syed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Slayerma&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div id="header" align="center">
-  
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Slayerma" alt="Slayerma" /></a> </p>
-  
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div align="center">
 
-  
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Slayerma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 </div>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Slayerma&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -64,3 +61,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
