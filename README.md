@@ -22,13 +22,18 @@
 
 
 # 📊 GitHub Stats:
-<div align="center">
+<p align="center">
+    <a href="https://github.com/Slayerma">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Slayerma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Slayerma&langs_count=12&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=Slayerma&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Slayerma&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Slayerma&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
+<p align="center">
+   <a href="https://github.com/Slayerma"> 
+     <img width="88%" src="https://github-readme-streak-stats.herokuapp.com/?user=Slayerma&show_icons=true&locale=en&layout=demo&theme=tokyonight&hide_border=true" /> 
+   </a>  
+ </p>
 
 ## ✍️ Random Dev Quote:
 <div align="center">
