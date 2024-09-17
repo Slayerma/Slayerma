@@ -31,7 +31,7 @@
 
 <p align="center">
    <a href="https://github.com/Slayerma"> 
-     <img width="53%" src="https://github-readme-streak-stats.herokuapp.com/?user=Slayerma&show_icons=true&locale=en&layout=demo&theme=tokyonight&hide_border=true" /> 
+     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Slayerma&show_icons=true&locale=en&layout=demo&theme=tokyonight&hide_border=true" /> 
    </a>  
  </p>
 
