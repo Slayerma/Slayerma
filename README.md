@@ -22,12 +22,12 @@
 
 
 # 📊 GitHub Stats:
-<div align="center">
- 
-![](https://github-readme-stats.vercel.app/api?username=Slayerma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Slayerma&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Slayerma&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-</div>
+<p align="center">
+    <a href="https://github.com/tayyabadev">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Slayerma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Slayerma&langs_count=12&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
 
 ## ✍️ Random Dev Quote:
 <div align="center">
@@ -41,7 +41,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Slayerma&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 </div>
 
-# 📊 GitHub Contributions Graph:
+# 📈 GitHub Contributions Graph:
 [![Syed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Slayerma&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
